@@ -1,7 +1,7 @@
 ## Hola 👋
 
 I’m **Diego Andrés Salazar Ramírez** — an Industrial Engineer building **applied AI** products.  
-I work at the intersection of **technology, running, and education**, focused on social impact, operational efficiency, and radically simple user experiences.
+I work at the intersection of **technology, philosophy, and education**, focused on social impact, operational efficiency, and radically simple user experiences.
 
 ---
 
