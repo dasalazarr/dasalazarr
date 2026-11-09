@@ -8,7 +8,7 @@ Most companies are adopting AI one tool at a time — a chatbot here, a copilot 
 - **Private assistant** on top of that knowledge — grounded answers, no data leaving the perimeter.
 - **Anti-atrophy by design** — AI that keeps people's judgment and know-how in the loop instead of replacing it.
 
-Built by [**Illarium**](https://SOLARIS_LANDING_URL), the consultancy I founded in Navarra. I'm building it in public — essays and progress on [dasalazarr.com](https://dasalazarr.com).
+Built by **Illarium** the consultancy I founded in Navarra. I'm building it in public — essays and progress on [dasalazarr.com](https://dasalazarr.com).
 
 > Running an SME in Navarra or the Basque Country and worried about where your data goes when you "add AI"? Let's talk.
 
@@ -28,7 +28,7 @@ Built by [**Illarium**](https://SOLARIS_LANDING_URL), the consultancy I founded 
 
 | Project | What it is | Status |
 |---|---|---|
-| **[Solaris](https://SOLARIS_LANDING_URL)** | Sovereign AI workspace for SMEs | 🟢 Building |
+| **[Solaris]([https://SOLARIS_LANDING_URL](https://solaris.dasalazarr.com/))** | Sovereign AI workspace for SMEs | 🟢 Building |
 | **Andes Runners** | WhatsApp running coach — multi-agent (Planner / Memory / Training / Progress), LLM routing, < $0.02 per interaction | 🟡 Beta |
 | **Khipu** | Conversational agents for SMEs & municipalities — bookings, payments, support | ⚪ Paused |
 | **PAPIA** | Personalized learning for public schools, incl. indigenous languages | ⚪ Concept |
