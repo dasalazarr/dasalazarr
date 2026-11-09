@@ -1,83 +1,52 @@
-## Hola 👋
+### ☀️ Now: Solaris
 
-I’m **Diego Andrés Salazar Ramírez** — an Industrial Engineer building **applied AI** products.  
-I work at the intersection of **technology, philosophy, and education**, focused on social impact, operational efficiency, and radically simple user experiences.
+Most companies are adopting AI one tool at a time — a chatbot here, a copilot there — scattered across vendors they don't control. Each one adds regulatory exposure, recurring cost, lock-in and a new place where company knowledge leaks out.
 
----
+**Solaris** is the alternative: a sovereign AI workspace that runs inside the company — local or private, secure, and built on the organization's own knowledge.
 
-### 🚀 What I’m working on
-- **Andes Runners** — WhatsApp running coach for beginner/intermediate runners (LatAm/ES/US).  
-  - Multi-agent system (Planner / Memory / Training / Progress / UX), **LLM routing** (DeepSeek + GPT-4o mini), cost < **$0.02 / interaction**.  
-  - Infra: **Node/Express/TypeScript**, **PostgreSQL + Prisma**, **Qdrant** (vector DB), **Railway**, **Netlify**, **pnpm workspaces**.  
-  - North-star metrics: **100+ beta users**, **5–10%** free→premium, **D14 retention >45%**.
-- **Illari Tech / Khipu** — conversational agents for **SMEs & municipalities** (bookings, payments, support, analytics).
-- **PAPIA** — AI-powered personalized learning for public schools (accessibility + indigenous languages).
+- **Operational ontology at the core** — processes, documents and people connected and vectorized into one model of how the company actually works.
+- **Private assistant** on top of that knowledge — grounded answers, no data leaving the perimeter.
+- **Anti-atrophy by design** — AI that keeps people's judgment and know-how in the loop instead of replacing it.
 
----
+Built by [**Illarium**](https://SOLARIS_LANDING_URL), the consultancy I founded in Navarra. I'm building it in public — essays and progress on [dasalazarr.com](https://dasalazarr.com).
 
-### 🛠️ Tech & tools
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-
-LLMs & infra: OpenAI (GPT-4o mini), DeepSeek, robust **RAG** (chunking/splitters, embeddings), evaluation & observability, cost control.
+> Running an SME in Navarra or the Basque Country and worried about where your data goes when you "add AI"? Let's talk.
 
 ---
 
-### 📦 Featured projects
-- **Andes Runners** — Adaptive marathon plans + empathetic feedback on WhatsApp.  
-- **Illari / Khipu** — Conversational automation (reservations, invoicing, support) + actionable analytics.  
-- **PAPIA** — Personalized learning content and tutoring for teachers and students.
+### 🧭 How I work
 
-> Interested in **reliable RAG**, **LLM observability**, or **ultra-simple onboarding** for WhatsApp? Let’s chat.
-
----
-
-### 🤝 I’m looking to collaborate on
-- **AI-first** products in health, sports, education, and govtech.  
-- **Digital transformation**: efficiency, automation, and decision-grade data.  
-- **Power BI** dashboards & **behavior-changing KPIs**.
+| | |
+|---|---|
+| **Engineering** | Full-stack + applied AI: RAG pipelines, multi-agent systems, LLM routing, evaluation & cost control |
+| **Strategy** | 7 years leading digital transformation at Telefónica Hispam across 8 countries · MBA in Business & Technology |
+| **Thinking** | Philosophy at Universidad de Navarra — technology as *pharmakon*: it can strengthen or atrophy what it touches |
 
 ---
 
-### 🌱 Currently learning
-- **Gherkin / BDD** for executable specs.  
-- **Framer Motion** & micro-interactions in React.  
-- Agent evaluation frameworks & LLM cost optimization.
+### 🧪 Lab & earlier work
+
+| Project | What it is | Status |
+|---|---|---|
+| **[Solaris](https://SOLARIS_LANDING_URL)** | Sovereign AI workspace for SMEs | 🟢 Building |
+| **Andes Runners** | WhatsApp running coach — multi-agent (Planner / Memory / Training / Progress), LLM routing, < $0.02 per interaction | 🟡 Beta |
+| **Khipu** | Conversational agents for SMEs & municipalities — bookings, payments, support | ⚪ Paused |
+| **PAPIA** | Personalized learning for public schools, incl. indigenous languages | ⚪ Concept |
+
+---
+
+### 🛠️ Stack
+
+**Core** — TypeScript · Node · React · Python · PostgreSQL + Prisma  
+**AI** — RAG (chunking, embeddings, Qdrant) · multi-agent orchestration · LLM routing · local / open-weight models · evals & observability  
+**Ship** — Docker · GitHub Actions · Vercel · Railway · Netlify
 
 ---
 
 ### 💬 Ask me about
-- Shipping an AI MVP to **real traction** (PMF, pricing, analytics).  
-- **WhatsApp bots** on Railway/Node and **RAG with Qdrant**.  
-- Metrics that matter: activation, retention, unit economics, **cost per interaction**.
 
----
+- Bringing AI into a company **without losing control of its data or its people's know-how**
+- **RAG that holds up in production** — retrieval quality, evals, cost per interaction
+- Taking an AI MVP from demo to **real users**
 
-### 📫 How to reach me
-DM me on **GitHub** or **LinkedIn** (full name).  
-Current location: **Pamplona, ES** · From **Ecuador** 🌎
-
----
-
-### ⚡ Fun fact
-Long-distance runner; I love turning philosophy into **practical systems** people actually use.
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasalazarr&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=dasalazarr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasalazarr&layout=compact)
+<sub>Off-keyboard: long-distance runner and philosophy student. I like turning ideas into systems people actually use.</sub>
