@@ -29,9 +29,9 @@ Built by **Illarium** the consultancy I founded in Navarra. I'm building it in p
 | Project | What it is | Status |
 |---|---|---|
 | **[Solaris]([https://SOLARIS_LANDING_URL](https://solaris.dasalazarr.com/))** | Sovereign AI workspace for SMEs | 🟢 Building |
-| **Andes Runners** | WhatsApp running coach — multi-agent (Planner / Memory / Training / Progress), LLM routing, < $0.02 per interaction | 🟡 Beta |
-| **Khipu** | Conversational agents for SMEs & municipalities — bookings, payments, support | ⚪ Paused |
-| **PAPIA** | Personalized learning for public schools, incl. indigenous languages | ⚪ Concept |
+| **Andes Runners** | WhatsApp running coach — multi-agent (Planner / Memory / Training / Progress), LLM routing, < $0.02 per interaction | 🟡 MVP |
+| **Khipu** | Conversational agents for SMEs & municipalities — bookings, payments, support | 🟡 MVP |
+| **PAPIA** | Personalized learning for public schools, incl. indigenous languages | 🟡 MVP |
 
 ---
 
